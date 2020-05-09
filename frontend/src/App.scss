@@ -1,0 +1,13 @@
+.app {
+  margin: 64px;
+  text-align: center;
+  &__delimiter-container {
+    display: inline-block;
+    width: 50%;
+  }
+
+  &__lines-container {
+    display: inline-block;
+    width: 50%;
+  }
+}
